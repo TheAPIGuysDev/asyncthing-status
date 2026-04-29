@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 382,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "time": 403,
+    "timeDay": 403,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 137,
+    "timeDay": 137,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 438,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 400,
+    "timeDay": 400,
+    "timeWeek": 400,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "ASyncThing Marketing",
-    "url": "https://asyncthing.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/asyncthing.com.ico",
-    "slug": "a-sync-thing-marketing",
-    "status": "down",
-    "uptime": "22.88%",
-    "uptimeDay": "22.88%",
-    "uptimeWeek": "22.88%",
-    "uptimeMonth": "22.88%",
-    "uptimeYear": "22.88%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-04-29": 0
-    }
   }
 ]
