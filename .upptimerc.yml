@@ -10,8 +10,6 @@ sites:
     expectedStatusCodes: [200]
   - name: ASyncThing App
     url: https://app.asyncthing.com/
-  - name: ASyncThing Marketing
-    url: https://asyncthing.com/
 
 status-website:
   cname: status.asyncthing.com
